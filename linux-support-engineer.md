@@ -1,27 +1,30 @@
 # Linux Support Engineer
-We zijn altijd op zoek naar een extra Trueligans! Beheers jij onderstaande (vergelijkbare) technieken en wil je deze verder ontwikkelen, kom langs of stuur een mail.
+We zijn altijd op zoek naar een extra Trueligans! Beheers jij onderstaande (vergelijkbare) technieken geheel of gedeeltelijk en wil je deze verder ontwikkelen: kom met ons meecomputeren!
 
 ![icanhazlinux](linux_cat.jpg)
 
-* Linux (Ubuntu, CentOS);
-* Virtualisatie technieken (KVM, Docker);
-* Installation & Provisioning (PXE, Kickstart);
-* Configuration & Automation (Ansible);
-* Monitoring (Nagios);
-* Scripting kennis (Bash, Python, of vergelijkbare tooling);
-* Ervaring met Netwerktechnologie (TCP-stack, OSI-model)
-* Security (SSL, hardening)
-* Ervaring met cluster omgevingen (HAProxy, Keepalived, HA-stack)
+* Linux (Voornamelijk Ubuntu)
+* Webserver (Apache, Nginx)
+* Database & noSQL (MySQL, Percona, PostrgreSQL & Memcache, Redis)
+* Virtualisatie technieken (KVM, Docker, Kubernetes)
+* Installation & Provisioning (PXE, Kickstart)
+* Configuration & Automation (Ansible)
+* Monitoring (Nagios, Icinga, Munin, Telegraf)
+* Scripting (Bash, Python, PHP)
+* Networking (TCP/UDP, Iptables, OSI-model)
+* Security (SSL, Encryptie, Hardening)
+* Clustering (HAProxy, Keepalived)
+* Etc. etc.
 
 Jouw belangrijkste taken en overige kwaliteiten zijn: 
-* Beantwoorden van klantvragen;
-* Opzetten van nieuwe klantomgevingen;
-* Verbeteren van klantomgevingen;
-* Onderzoeken en diagnosticeren van problemen;
-* Draaien van storingsdiensten (periodiek);
-* Meedenken over verbeteringen en innovatie;
-* Goede communicatieve kwaliteiten, klantgericht en pro-actief;
-* Een teamspeler, die tevens goed zelfstandig kan werken;
+* Beantwoorden van klantvragen
+* Opzetten van nieuwe klantomgevingen
+* Verbeteren van klantomgevingen
+* Onderzoeken en diagnosticeren van problemen
+* Draaien van storingsdiensten (periodiek)
+* Meedenken over verbeteringen en innovatie
+* Goede communicatieve kwaliteiten, klantgericht en pro-actief
+* Een teamspeler, die tevens goed zelfstandig kan werken
 * Minimaal (m|h)bo werk-en denkniveau en humor :)
 
 ## Wat biedt True?
