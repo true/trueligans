@@ -1,6 +1,8 @@
 # Linux Support Engineer
 We zijn altijd op zoek naar een extra Trueligans! Beheers jij onderstaande (vergelijkbare) technieken en wil je deze verder ontwikkelen, kom langs of stuur een mail.
 
+![icanhazlinux](linux_cat.jpg)
+
 * Linux (Ubuntu, CentOS);
 * Virtualisatie technieken (KVM, Docker);
 * Installation & Provisioning (PXE, Kickstart);
@@ -20,7 +22,7 @@ Jouw belangrijkste taken en overige kwaliteiten zijn:
 * Meedenken over verbeteringen en innovatie;
 * Goede communicatieve kwaliteiten, klantgericht en pro-actief;
 * Een teamspeler, die tevens goed zelfstandig kan werken;
-* Minimaal hbo werk-en denkniveau en humor :)
+* Minimaal (m|h)bo werk-en denkniveau en humor :)
 
 ## Wat biedt True?
 Je komt te werken in een jong, enthousiast, technisch hoogstaand team waar de traditioneel relaxte dotcom cultuur wordt gecombineerd met ambitieuze organisatiedoelstellingen. De klanten die je service verleent variëren van startups tot corporate ondernemingen. 
