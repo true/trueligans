@@ -1,5 +1,5 @@
 # Linux Support Engineer
-We zijn altijd op zoek naar een extra Trueligans! Beheers jij onderstaande (vergelijkbare) technieken geheel of gedeeltelijk en wil je deze verder ontwikkelen: kom met ons meecomputeren!
+We zijn altijd op zoek naar extra Trueligans! Beheers jij onderstaande (vergelijkbare) technieken geheel of gedeeltelijk en wil je deze verder ontwikkelen: kom met ons meecomputeren!
 
 ![icanhazlinux](linux_cat.jpg)
 
